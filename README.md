@@ -20,3 +20,8 @@ https://github.com/nassir-malik/IOT-Pi3-3Way_Switch_Home_Automation/tree/master/
 
 
 https://www.youtube.com/watch?v=ZpHizkze9lg     #tachometer with Rpi
+
+
+
+
+https://www.youtube.com/watch?v=1VxP38XlVEQ      Rest api
